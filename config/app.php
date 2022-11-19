@@ -1,6 +1,9 @@
 <?php
 
+use nilsenj\Toastr\Facades\Toastr;
 use Illuminate\Support\Facades\Facade;
+use Yoeunes\Toastr\ToastrServiceProvider;
+
 
 return [
 
@@ -82,7 +85,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'ar',
 
     /*
     |--------------------------------------------------------------------------
@@ -95,7 +98,7 @@ return [
     |
     */
 
-    'fallback_locale' => 'en',
+    'fallback_locale' => 'ar',
 
     /*
     |--------------------------------------------------------------------------
@@ -181,6 +184,10 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+        ToastrServiceProvider::class,
+
+
+
 
         /*
          * Package Service Providers...
@@ -209,6 +216,7 @@ return [
     */
 
     'aliases' => Facade::defaultAliases()->merge([
+        'Toastr' => 'Toastr',
         // 'ExampleClass' => App\Example\ExampleClass::class,
     ])->toArray(),
 

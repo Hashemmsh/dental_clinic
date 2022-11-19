@@ -1,0 +1,73 @@
+{
+    "Dashboard":"الرئيسية",
+
+    "Doctor":"الموظفين",
+
+    "Patient":"المرضى",
+
+    "Service":"خدمات المرضى",
+
+    "Invoice":"فواتير المرضى",
+
+    "Apponment":"الحجوزات",
+
+    "Midicine":"الأدوية"
+    ,
+    "Midical Bill":"الكشفيات",
+
+    "Role":"الصلاحيات",
+
+    "Report":"التقارير",
+
+    "Financial":"المالية",
+
+    "All Doctor":"جميع الموظفين",
+
+    "Add Doctor":"اضافة موظف جديد",
+
+    "Trash":"المحذوفات",
+
+    "All Patient":"جميع المرضى",
+
+    "All Service":"جميع الخدمات",
+
+    "All Invoice":"جميع الفواتير",
+
+    "Add Patient":"اضافة مريض",
+
+    "Add Service":"اضافة خدمة",
+
+    "Add Invoice":"اضافة فاتورة",
+
+    "All Apponment":"جميع الحجوزات",
+
+    "Add Apponment":"اضافة حجز",
+
+    "All Midicine":"جميع الدوية",
+
+    "Add Midicine":"اضافة دواء",
+
+    "All Midical-Bill":"جميع الكشفيات",
+
+    " Add new":"اضافة كشفية",
+
+    "All Permission":"جميع الصلاحيات",
+
+    " Add Permission":"اضافة صلاحية",
+
+    "All Financial":"الامور المالية",
+
+    "details":"التفاصيل",
+
+    "Profile":"ملف الشخصي",
+
+    "Logout":"تسجيل الخروج",
+
+    "Company_invoice":"فواتير خارجية",
+
+    "All Company_invoice":"جميع الفواتير",
+
+    "Add Company_invoice":"اضافة فاتورة"
+
+
+}

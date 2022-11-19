@@ -1,0 +1,70 @@
+{
+
+"Dashboard":"Dashboard",
+
+"Doctor":"Doctor",
+
+"Patient":"Patient",
+
+"Service":"Service",
+
+"Invoice":"Invoice",
+
+"Apponment":"Apponment",
+
+"Midicine":"Midicine",
+
+"Midical Bill":"Midical Bill",
+
+"Role":"Role",
+
+"Report":"Report",
+
+"Financial":"Financial",
+
+"All Doctor":"All Doctor",
+
+"Add Doctor":"Add Doctor",
+
+"Trash":"Trash",
+
+"All Patient":"All Patient",
+
+"All Service":"All Service",
+
+"All Invoice":"All Invoice",
+
+"Add Patient":"Add Patient",
+
+"Add Service":"Add Service",
+
+"Add Invoice":"Add Invoice",
+
+"All Apponment":"All Apponment",
+
+"Add Apponment":"Add  Apponment",
+
+"All Midicine":"All Midicine",
+
+"Add Midicine":"Add Midicine",
+
+"All Midical-Bill":"All Midical-Bill",
+
+" Add new":"Add new",
+
+"All Permission":"All Permission",
+
+" Add Permission":" Add Permission",
+
+"All Financial":"All Financial",
+
+"details":"details",
+
+"Profile":"Profile",
+
+"Logout":"Logout",
+"Company_invoice":"Company_invoice",
+"All Company_invoice":"All Company_invoice",
+"Add Company_invoice":"Add Company_invoice"
+
+}
